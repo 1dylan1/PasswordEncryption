@@ -1,4 +1,4 @@
-**Password Encryption Tool **
+**Password Encryption Tool**
 
 This program aims to provide an alternative to storing password on your local machine in a secure way.
 

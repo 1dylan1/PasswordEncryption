@@ -57,6 +57,7 @@ void Login() {
 		Sleep(1000);
 		Login();
 	}
+	system("CLS");
 }
 
 void Quit() {
@@ -166,7 +167,8 @@ void SearchService() {
 
 	}
 
-	Sleep(3000);
+	system("pause");
+	cin.get(); //needed
 	system("CLS");
 	menu();
 }

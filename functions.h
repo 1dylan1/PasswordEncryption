@@ -105,7 +105,7 @@ string decryptString(string s) {
 
 	for (int i = 0; (i < 100 && buffer[i] != '\0'); i++) {
 
-		buffer[i] = buffer[i] - 25; //adding 25 to the ascii character
+		buffer[i] = buffer[i] - 25; //removing 25 from the ascii character
 	}
 	return buffer;
 }

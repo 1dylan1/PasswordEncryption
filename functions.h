@@ -192,7 +192,7 @@ void ShowAll() {
 
 }
 void menu() {
-	cout << "Which would you like to do? \n";
+	cout << "What would you like to do? \n";
 	cout << "(1) View All passwords\n";
 	cout << "(2) View a specific service login\n";
 	cout << "(3) Add a password/service\n";

@@ -17,6 +17,4 @@ This program aims to provide an alternative to storing passwords on your local m
 
 ------------------------------
 
-A demonstration of the program is shown here:
-https://youtu.be/3QGr6061PCI
 
